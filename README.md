@@ -15,3 +15,9 @@ Recently Toronto has seen a steady increase in Auto theft and other crimes. This
 * Big Query
 * dbt
 * Looket Studio
+
+### Architecture:
+
+![Drawing1](https://user-images.githubusercontent.com/46944817/230142334-7f598f19-23b5-4dab-88b3-8341350df368.jpeg)
+
+### About data:
