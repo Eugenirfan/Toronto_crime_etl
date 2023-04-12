@@ -18,7 +18,8 @@ Recently Toronto has seen a steady increase in Auto theft and other crimes. This
 * dbt
 * Looker Studio
 
-### see recreate.md for instructions
+### To Recreate the project
+* See recreate.md for instructions
 
 ### Architecture:
 
