@@ -4,17 +4,21 @@
 ![toronto-logo-png-transparent-e1663874591459](https://user-images.githubusercontent.com/46944817/230141486-821a51e4-6252-48d8-883d-d0727a382335.png)
 
 
+
 ### Problem:
 Recently Toronto has seen a steady increase in Auto theft and other crimes. This project is to create a Cloud pipeline and analyse more about the increase in crimes. Data is available at https://open.toronto.ca/
 
 
 ### Datastack Used:
+* Terraform
 * Docker
 * Prefect
 * Google Cloud Storage
 * Big Query
 * dbt
-* Looket Studio
+* Looker Studio
+
+### see recreate.md for instructions
 
 ### Architecture:
 
