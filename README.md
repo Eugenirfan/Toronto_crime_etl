@@ -33,3 +33,8 @@ Recently Toronto has seen a steady increase in Auto theft and other crimes. This
 ![3860BE41-4894-4BF6-8B90-6CB0EE5D3248_1_105_c](https://user-images.githubusercontent.com/46944817/230144012-ee679e60-c580-431a-832c-f046ace91153.jpeg)
 
 ### Auto theft has increased sharply while robberies in general has decreased due to Pandemic. But is on a steady increase
+
+### DBT Transformations:
+
+![dbt-dag (2)](https://user-images.githubusercontent.com/46944817/231931724-87d3cbe9-b8bf-463b-a3d6-3f2697ab5733.png)
+
