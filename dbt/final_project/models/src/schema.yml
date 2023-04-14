@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+    - name: src
+      database: final-project-zoomcamp
+      schema: crime_data_all
+
+
+      tables:
+      - name: crime_data
